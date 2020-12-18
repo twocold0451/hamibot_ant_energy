@@ -1,6 +1,6 @@
 ## 自动收取支付宝蚂蚁森林能量
 
-如何使用:https://hamibot.com/guide
+如何使用：https://hamibot.com/guide
 
 ### 所需权限
 - 无障碍权限
